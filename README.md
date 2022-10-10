@@ -4,11 +4,15 @@ https://carlosaj18.github.io/Recipes-Website/
 
 ## Task:
 
-Build a semantic HTML website for showcasing recipes in pop culture.
+Build a semantic HTML website for showcasing different recipes around the world, based on some categories like Pop, America, or Italian Culture.
 
 ## Functionality:
 
+The main goal of the website is to gather and clasify the recipes based on the culture filter. 
+
 ## Design:
+
+I try to buil the website using the UX/UI standars. 
 
 ## Run Locally:
 
